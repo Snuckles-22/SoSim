@@ -1,7 +1,6 @@
 # SoSim
 --------------------------------------------------------------------------------------
 O processo está pronto para ser executado, mas está esperando sua vez na fila da CPU.
-
 Ele ainda não está sendo executado, só está aguardando.
 --------------------------------------------------------------------------------------
 O processo está usando a CPU nesse momento.

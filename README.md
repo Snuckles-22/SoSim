@@ -15,3 +15,4 @@ O SJF apresenta o menor tempo médio de espera, pois executa primeiro os process
 --------------------------------------------------------------------------------------
 QUESTÃO 3
 Uma falta de página ocorre quando um processo tenta acessar uma página que não está na RAM. O sistema operacional pausa o processo, carrega a página do disco para a memória e depois retoma a execução.
+--------------------------------------------------------------------------------------
